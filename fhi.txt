@@ -1,0 +1,8 @@
+Time complexity of the code: O(n^4)
+Size of the value: 1 of the variable: a is: 28
+Size of the value: [] of the variable: b is: 56
+Size of the value: Debjit of the variable: st is: 55
+Size of the value: {} of the variable: c is: 64
+Size of the value: 4.22 of the variable: d is: 24
+Size of variable: jh=4 is = 53
+Size of variable: kh=10 is = 54
